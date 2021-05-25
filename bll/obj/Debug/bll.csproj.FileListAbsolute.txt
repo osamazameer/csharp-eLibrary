@@ -1,0 +1,11 @@
+C:\Users\Osama Zameer\source\repos\E-lib\bll\obj\Debug\bll.csproj.CoreCompileInputs.cache
+C:\Users\Osama Zameer\source\repos\E-lib\bll\bin\Debug\bll.dll
+C:\Users\Osama Zameer\source\repos\E-lib\bll\bin\Debug\bll.pdb
+C:\Users\Osama Zameer\source\repos\E-lib\bll\bin\Debug\approps.dll
+C:\Users\Osama Zameer\source\repos\E-lib\bll\bin\Debug\DAL.dll
+C:\Users\Osama Zameer\source\repos\E-lib\bll\bin\Debug\approps.pdb
+C:\Users\Osama Zameer\source\repos\E-lib\bll\bin\Debug\DAL.pdb
+C:\Users\Osama Zameer\source\repos\E-lib\bll\obj\Debug\bll.csprojAssemblyReference.cache
+C:\Users\Osama Zameer\source\repos\E-lib\bll\obj\Debug\bll.csproj.CopyComplete
+C:\Users\Osama Zameer\source\repos\E-lib\bll\obj\Debug\bll.dll
+C:\Users\Osama Zameer\source\repos\E-lib\bll\obj\Debug\bll.pdb

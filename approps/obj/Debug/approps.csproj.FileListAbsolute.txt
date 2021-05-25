@@ -1,0 +1,6 @@
+C:\Users\Osama Zameer\source\repos\E-lib\approps\bin\Debug\approps.dll
+C:\Users\Osama Zameer\source\repos\E-lib\approps\bin\Debug\approps.pdb
+C:\Users\Osama Zameer\source\repos\E-lib\approps\obj\Debug\approps.csprojAssemblyReference.cache
+C:\Users\Osama Zameer\source\repos\E-lib\approps\obj\Debug\approps.csproj.CoreCompileInputs.cache
+C:\Users\Osama Zameer\source\repos\E-lib\approps\obj\Debug\approps.dll
+C:\Users\Osama Zameer\source\repos\E-lib\approps\obj\Debug\approps.pdb

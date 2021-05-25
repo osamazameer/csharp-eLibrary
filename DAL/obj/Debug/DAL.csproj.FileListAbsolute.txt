@@ -1,0 +1,9 @@
+C:\Users\Osama Zameer\source\repos\E-lib\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Osama Zameer\source\repos\E-lib\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Osama Zameer\source\repos\E-lib\DAL\bin\Debug\DAL.dll
+C:\Users\Osama Zameer\source\repos\E-lib\DAL\bin\Debug\DAL.pdb
+C:\Users\Osama Zameer\source\repos\E-lib\DAL\bin\Debug\approps.dll
+C:\Users\Osama Zameer\source\repos\E-lib\DAL\bin\Debug\approps.pdb
+C:\Users\Osama Zameer\source\repos\E-lib\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Osama Zameer\source\repos\E-lib\DAL\obj\Debug\DAL.dll
+C:\Users\Osama Zameer\source\repos\E-lib\DAL\obj\Debug\DAL.pdb
